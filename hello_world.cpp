@@ -1,4 +1,6 @@
+
 #include <iostream> //подключаем библиотеки.
+
 #include <string>
 int main(){
     std::string name; //объявление переменной
